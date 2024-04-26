@@ -5,7 +5,7 @@ I'm currently studying on RevoU Tech Academy focusing at Data Analytics & Softwa
 
 
 ## Here's my stack:
-[![My Skills](https://skillicons.dev/icons?i=notion,mysql,html,css,js,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,mysql,html,css,js,github,figma&theme=dark)](https://skillicons.dev)
 
 
 
