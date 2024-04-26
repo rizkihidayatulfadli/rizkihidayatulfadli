@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hey there, I'm Rizki 👋
 
-I'm currently studying on RevoU Tech Academy stand for Data Analytics & Software Engineering.
+I'm currently studying on RevoU Tech Academy focusing at Data Analytics & Software Engineering.
 
+### Here's my stack:
 [![My Skills](https://skillicons.dev/icons?i=notion,mysql,html,css,js,github&theme=dark)](https://skillicons.dev)
+
+### Follow me on:
+<img src="https://instagram.com/rizkihidayatulfadlii" alt="Instagram" width="30" height="30">
+<img src="https://twitter.com/RizkiHFadli" alt="Pinterest" width="30" height="30">
