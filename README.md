@@ -1,4 +1,4 @@
-## Hey there, I'm Rizki 👋
+<h1>Hey there, I'm Rizki 👋</h1>>
 
 I'm currently studying on RevoU Tech Academy focusing at Data Analytics & Software Engineering.
 
