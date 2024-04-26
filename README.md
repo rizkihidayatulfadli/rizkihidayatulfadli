@@ -4,11 +4,11 @@ I'm currently studying on RevoU Tech Academy focusing at Data Analytics & Softwa
 
 
 
-### Here's my stack:
+## Here's my stack:
 [![My Skills](https://skillicons.dev/icons?i=notion,mysql,html,css,js,github&theme=dark)](https://skillicons.dev)
 
 
 
-### Follow me on:
+## Follow me on:
 <a href="https://instagram.com/rizkihidayatulfadlii?" alt="Instagram">Instagram</a> <br>
 <a href="https://www.linkedin.com/in/rizkihidayatulfadli/" alt="LinkedIn">LinkedIn</a>
