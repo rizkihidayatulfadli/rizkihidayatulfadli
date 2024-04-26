@@ -10,5 +10,7 @@ I'm currently studying on RevoU Tech Academy focusing at Data Analytics & Softwa
 
 
 ### Follow me on:
-<img src="https://instagram.com/rizkihidayatulfadlii" alt="Instagram" width="30" height="30">
+<a href="https://instagram.com/rizkihidayatulfadlii>
+  <img src="https://instagram.com/rizkihidayatulfadlii" alt="Instagram" width="30" height="30">
+</a>
 <img src="https://twitter.com/RizkiHFadli" alt="Twitter" width="30" height="30">
