@@ -4,7 +4,7 @@
 
 
 <h2>Here's my stack:</h2>
-[My Skills](https://skillicons.dev/icons?i=notion,mysql,html,css,js,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,mysql,html,css,js,github,figma&theme=dark)](https://skillicons.dev)
 
 
 
