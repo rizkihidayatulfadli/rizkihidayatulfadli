@@ -1,5 +1,5 @@
 <h1 align="center">Hi mate 👋, I'm Rizki</h1>
-<h3 align="center">I'm new here mate, so I went here to learn more about computer science.</h3>
+<h3 align="center">I'm new here, so I went here to learn more about computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkihidayatulfadli&label=Profile%20views&color=0e75b6&style=flat" alt="rizkihidayatulfadli" /> </p>
 
