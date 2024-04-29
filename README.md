@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">My Second Brain</h3>
-<p align="left"><a href="https://logowik.com/notion-vector-logo-9228.html"><img src="https://logowik.com/content/uploads/images/notion1411.jpg"></a></p>
+<p align="left"><a href="https://logowik.com/notion-vector-logo-9228.html" width=50px height=50px><img src="https://logowik.com/content/uploads/images/notion1411.jpg"></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
