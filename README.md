@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkihidayatulfadli" alt="rizkihidayatulfadli" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rizkihfadli" target="blank"><img src="https://img.shields.io/twitter/follow/rizkihfadli?logo=twitter&style=for-the-badge" alt="rizkihfadli" /></a> 12</p>
+<p align="left"> <a href="https://twitter.com/rizkihfadli" target="blank"><img src="https://img.shields.io/twitter/follow/rizkihfadli?logo=twitter&style=for-the-badge" alt="rizkihfadli" /></a></p>
 
 - 🔭 I’m currently studying on **MSIB6 X RevoU Tech Academy**
 
