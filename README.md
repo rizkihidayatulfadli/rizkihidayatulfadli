@@ -30,7 +30,7 @@
 
 <p><b>Discount Codes:</b></p>
 <ul>
-  <li>Framer: use this code on <a href="https://www.framer.com?via=rizki/" target="_blank" style="unstyle">checkout</a> "partner25proyearly" and get 3 free months on a Pro annual subscription</li>
+  <li>Framer: use this code on <a href="https://www.framer.com?via=rizki/" target="_blank">checkout</a> "partner25proyearly" and get 3 free months on a Pro annual subscription</li>
 </ul>
 
 <h3 align="left">Support:</h3>
