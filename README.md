@@ -1,13 +1,33 @@
-<h1>Hey there, I'm Rizki 👋</h1>
+<h1 align="center">Hi mate 👋, I'm Rizki</h1>
+<h3 align="center">I'm new here mate, so I went here to learn more about computer science.</h3>
 
-<p>I'm currently studying on RevoU Tech Academy focusing at Data Analytics & Software Engineering.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkihidayatulfadli&label=Profile%20views&color=0e75b6&style=flat" alt="rizkihidayatulfadli" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkihidayatulfadli" alt="rizkihidayatulfadli" /></a> </p>
 
-<h2>Here's my stack:</h2>
-[![My Skills](https://skillicons.dev/icons?i=notion,html,css,js,figma)](https://skillicons.dev)
+<p align="left"> <a href="https://twitter.com/rizkihfadli" target="blank"><img src="https://img.shields.io/twitter/follow/rizkihfadli?logo=twitter&style=for-the-badge" alt="rizkihfadli" /></a> </p>
 
+- 🔭 I’m currently studying on **MSIB6 X RevoU Tech Academy**
 
+- ⚡ Fun fact **I'm just former of professional cyclist for Indonesia**
 
-<H2>Follow me on:</H2>
-<a href="https://instagram.com/rizkihidayatulfadlii?" alt="Instagram">Instagram</a> <br>
-<a href="https://www.linkedin.com/in/rizkihidayatulfadli/" alt="LinkedIn">LinkedIn</a>
+- 🌱 I’m currently learning **Software Engineering**
+
+- 📫 How to reach me **rizkihidayatulfadliofficial@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rizkihfadli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizkihfadli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rizkihidayatulfadli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizkihidayatulfadli" height="30" width="40" /></a>
+<a href="https://instagram.com/rizkihidayatulfadlii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkihidayatulfadlii" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rizkihidayatulfadli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rizkihidayatulfadli" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkihidayatulfadli&show_icons=true&locale=en&layout=compact" alt="rizkihidayatulfadli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkihidayatulfadli&show_icons=true&locale=en" alt="rizkihidayatulfadli" /></p>
