@@ -1,15 +1,15 @@
 <h1 align="center">Hi mate 👋, I'm Rizki</h1>
-<h3 align="center">I'm new here, so I went here to learn more about computer science.</h3>
+<h3 align="center">I went here to learn more about computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkihidayatulfadli&label=Profile%20views&color=0e75b6&style=flat" alt="rizkihidayatulfadli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkihidayatulfadli" alt="rizkihidayatulfadli" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rizkihfadli" target="blank"><img src="https://img.shields.io/twitter/follow/rizkihfadli?logo=twitter&style=for-the-badge" alt="rizkihfadli" /></a></p>
+<p align="left"> <a href="https://twitter.com/rizkihfadli" target="_blank"><img src="https://img.shields.io/twitter/follow/rizkihfadli?logo=twitter&style=for-the-badge" alt="rizkihfadli" /></a></p>
 
 - 🔭 I’m currently studying on **MSIB6 X RevoU Tech Academy**
 
-- ⚡ Fun fact **I'm just former of professional cyclist for Indonesia**
+- ⚡ Fun fact **I'm just a former of professional cyclist for Indonesia**
 
 - 🌱 I’m currently learning **Software Engineering**
 
