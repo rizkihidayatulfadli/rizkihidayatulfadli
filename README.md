@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rizkihfadli" target="blank"><img src="https://img.shields.io/twitter/follow/rizkihfadli?logo=twitter&style=for-the-badge" alt="rizkihfadli" /></a></p>
 
-- 🔭 I’m currently studying on **MSIB6 X RevoU Tech Academy**
+- 🔭 I already finished my course study on **MSIB6 X RevoU Tech Academy**
 
 - ⚡ Fun fact **I'm just a former of professional cyclist for Indonesia**
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 📫 How to reach me **rizkihidayatulfadliofficial@gmail.com**
+- 📫 How to reach me **rizkifadli2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
